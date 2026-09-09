@@ -7,11 +7,13 @@ description: >-
   posts read as AI-generated. Use whenever a founder or business owner asks
   to write or draft a LinkedIn post, turn a thought, story, or take into a
   post, write a post from a calendar row or topic, or make a specific post
-  sound like them. Do NOT use this skill to build the reusable voice profile
+  sound like them. The source test: a thought, story, or topic not yet
+  written up belongs here; an existing blog post, transcript, or other
+  long-form piece belongs to content-repurposer. Do NOT use this skill to build the reusable voice profile
   itself (when someone wants to capture how they write in general, that's
   founder-voice-profile), to repurpose a blog post or long-form piece, to
   design a carousel or visual, or to answer strategy, pillar, or calendar
-  questions — it writes one post at a time, and never publishes anything.
+  questions; it writes one post at a time, and never publishes anything.
 ---
 
 # LinkedIn Post Writer
@@ -45,9 +47,10 @@ questions never block the draft: write it immediately in the default
 register (direct, slightly informal, contractions, varied rhythm, trusts
 the reader), then offer the three voice questions AFTER the draft as a way
 to re-cut it in their voice. A founder with a ready brief came for a post,
-not a questionnaire. Either way, mention once that the
-founder-voice-profile skill builds the durable version so future posts skip
-this entirely.
+not a questionnaire. Either way, say plainly that no voice.md was found in this folder, note
+that dropping the file in or pasting its contents from an earlier session
+restores the voice, and mention once that the founder-voice-profile skill
+builds the durable version so future posts skip this entirely.
 
 ## Intake (one message)
 
@@ -108,7 +111,9 @@ person is defined; write inside it.
   such lines, quoted from their material, are theirs to keep.
 - **Claims stay concrete and ownable.** Only facts the user or their files
   supplied. A founder-only detail the material doesn't contain becomes a
-  [bracketed slot], never an invented number, name, or story, and nothing is
+  [bracketed slot], never an invented number, name, or story (when the
+  draft carries slots, say once that they're deliberate: they mark what
+  only the founder knows), and nothing is
   written as lived experience the user didn't actually report. One caught
   invention costs more trust than ten strong posts earn.
 - **Vary the rhythm.** Mix short sentences with long ones. Let one paragraph
@@ -194,6 +199,15 @@ the end of this skill is the legitimate route.
    statistic (for B2B buyers: early workday morning midweek tends to work
    best, then stay close to the first replies)
 4. The one-pass revision offer: tighter, bolder, or softer
+
+## When the ask spans skills
+
+When the user's request covers more than this skill's job ("plan and write
+my october posts", "capture my voice then write a post"), deliver this
+skill's part in full, say plainly which part is done, and name the pack
+skill that owns the rest with an offer to continue there. Doing half of a
+compound request without saying so leaves the user thinking the other half
+was forgotten.
 
 ## Handing off
 

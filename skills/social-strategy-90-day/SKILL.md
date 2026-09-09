@@ -7,18 +7,18 @@ description: >-
   metrics, and a day-by-day first two weeks. Use whenever a founder or
   business owner asks for a social media strategy, a LinkedIn strategy, a
   content strategy, a quarterly plan for social, or how they should approach
-  LinkedIn this quarter — including loose phrasings like "what should my
+  LinkedIn this quarter, including loose phrasings like "what should my
   linkedin game plan be" or "how do I get pipeline from linkedin". Do NOT use
   this skill to write an individual post, to build a writing-voice profile,
   to lay out a month of specific post topics on a calendar, or to answer
   platform-mechanics questions (algorithm behavior, character limits, best
-  posting times) — it produces the quarter's strategy document only.
+  posting times); it produces the quarter's strategy document only.
 ---
 
 # 90-Day Social Strategy
 
 Produce a strategy document a founder can run without a marketing team: what
-to say, how often, where, and how to know it's working — all sized to the
+to say, how often, where, and how to know it's working, all sized to the
 time they actually have.
 
 ## Who you're helping
@@ -29,11 +29,23 @@ the minimum, batch questions into one message, and produce a finished
 deliverable they can start running the same week. Assume business context
 (pipeline, buyers, positioning), not creator context (followers, virality,
 monetization). Success is measured in business terms: conversations started,
-profile-to-site clicks, inbound leads — never raw follower counts or
+profile-to-site clicks, inbound leads, never raw follower counts or
 impressions alone.
 
 ## Ground rules (non-negotiable)
 
+- Fit check before planning. This pack plans LinkedIn-first for founders
+  whose buyers are on LinkedIn and who run their own marketing. When what
+  the user has already said points the other way (consumer or DTC buyers
+  who don't make buying decisions on LinkedIn, or a staffed marketing team
+  that owns social), say the mismatch plainly before planning anything:
+  name the assumption, ask one confirming question if the signals are
+  mixed, and when the fit genuinely isn't there, say this pack may not fit
+  and point briefly at the honest alternative (the channel where their
+  buyers actually decide, or handing the plan to the team that owns
+  social). A confident plan built on the wrong premise costs the user more
+  than a declined one. If they confirm they want the LinkedIn plan anyway,
+  build it.
 - Never include, recommend, or schedule: engagement pods, LinkedIn automation
   tools, bulk or automated DMs, mass connection tools, auto-liking or
   auto-commenting, or scraping. If the user asks the strategy to include one
@@ -63,12 +75,12 @@ impressions alone.
   beats brilliance."). Make the point in a plain sentence instead. A strategy
   that reads like AI slop undermines the founder it's for.
 
-## Step 1 — Intake (one message, only what's missing)
+## Step 1: Intake (one message, only what's missing)
 
 First, check the working directory for `voice.md` and `about.md` (produced
 by the founder-voice-profile skill). If they exist, read them before asking
 anything: `about.md` usually answers who the company is, who buys, and why
-they pick them — never re-ask what those files already answer. `voice.md`
+they pick them; never re-ask what those files already answer. `voice.md`
 shapes the positioning paragraph and the post angles so they sound like the
 founder.
 
@@ -81,11 +93,14 @@ Then ask ONLY for what's still missing, batched into one message:
 4. Your honest weekly time budget for social, in minutes. The strategy will
    be sized to this number, so underestimate rather than overestimate.
 
-If no voice profile exists, proceed without it — and at the end, mention
+If no voice profile exists, say so plainly in your reply ("no voice.md in
+this folder, so the positioning is drawn from what you tell me"), note
+that dropping the file in or pasting its contents from an earlier session
+restores it, and proceed. At the end, mention
 (once, one line) that a voice profile would sharpen the positioning and
 angles, which is the founder-voice-profile skill's job.
 
-## Step 2 — Write the strategy document
+## Step 2: Write the strategy document
 
 Save it as `strategy.md` in the working directory, with exactly these
 sections:
@@ -106,7 +121,7 @@ they read, what they search, which conversations they join).]
 
 ## Content pillars
 [3–5 pillars. Each gets: a name, one sentence on what it covers, and the
-business reason it exists — how it moves the quarter's stated goal. A pillar
+business reason it exists: how it moves the quarter's stated goal. A pillar
 with no business reason is a hobby; cut it.]
 
 ## Cadence
@@ -125,31 +140,54 @@ that lied about its price.]
 ## Channel plan
 [LinkedIn is primary: that's where the buyers are. At most ONE secondary
 channel, and only if the audience clearly justifies it (say why). Default is
-LinkedIn only — splitting a 45-minute budget across two channels means
+LinkedIn only; splitting a 45-minute budget across two channels means
 losing on both.]
 
 ## What we measure
 [Business metrics only: conversations started with real buyers (substantive
 comments and inbound DMs received), profile-to-site clicks, inbound leads or
 demos, and pipeline the founder can trace to LinkedIn. Then explicitly name
-the vanity metrics this strategy ignores — follower count, raw impressions,
-likes — and why: none of them tells you whether the quarter's goal is getting
+the vanity metrics this strategy ignores (follower count, raw impressions,
+likes) and why: none of them tells you whether the quarter's goal is getting
 closer, and optimizing them produces content for an algorithm instead of for
 buyers. Keep the tracking ask tiny (about 10 minutes once a month) and pay
 for it inside the weekly budget per the Cadence section, never on top of it.]
 
 ## First two weeks, day by day
 [Concrete actions with day labels and time costs that sum inside the weekly
-budget. Week 1 is setup plus the first post; week 2 is rhythm. Every entry
-is something a busy founder can do same-day without asking what it means.]
+budget, counting reply time on posting days, not just drafting time: a post
+that earns comments costs minutes to answer, and the Cadence section's rule
+that every recurring commitment pays inside the budget applies to this
+section's own math. Week 1 is setup plus the first post; week 2 is rhythm.
+Every entry is something a busy founder can do same-day without asking what
+it means.]
 ```
 
-## Step 3 — Close with three post angles
+## Step 3: Close with three post angles
 
 In chat (not in the document), give exactly three example post angles that
 fit the pillars: one line each, the angle plus which pillar it serves.
-Angles, not drafts — say plainly that drafting the actual posts is the
+Angles, not drafts; say plainly that drafting the actual posts is the
 linkedin-post-writer skill's job, so the user knows where to go next.
+
+## Self-check before delivering (silent, mandatory)
+
+Re-read your entire reply line by line before you respond, strategy.md
+included. Fix what you find, then check again:
+
+- Any fact, metric, or benchmark the user or their files didn't supply:
+  cut it. Working numbers stay labeled as heuristics. Check negative
+  claims and contrasts too; they read as framing, but they are facts.
+- Every week in the plan, the day-by-day section included, sums inside the
+  stated budget with reply and tracking time counted.
+- Any line that sounds quotable and was freshly coined by you, in the
+  document OR in functional-sounding meta-text: replace it with the
+  concrete point.
+- Any em dash, banned vocabulary, or rule-of-three padding outside a
+  verbatim user quote: rewrite the line.
+
+Run the check silently. Never mention it, the rules, or the technique in
+your reply.
 
 ## Output format (always)
 
@@ -157,6 +195,15 @@ linkedin-post-writer skill's job, so the user knows where to go next.
    sections above
 2. In chat: a short summary of the strategy's core bet, then the three post
    angles (labeled as angles, with the pointer to linkedin-post-writer)
+
+## When the ask spans skills
+
+When the user's request covers more than this skill's job ("plan and write
+my october posts", "capture my voice then write a post"), deliver this
+skill's part in full, say plainly which part is done, and name the pack
+skill that owns the rest with an offer to continue there. Doing half of a
+compound request without saying so leaves the user thinking the other half
+was forgotten.
 
 ## Handing off
 

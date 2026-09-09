@@ -4,18 +4,19 @@ description: >-
   Build a founder's manual LinkedIn engagement practice: a one-time
   engagement list of 15 to 25 people they choose, a documented 20-minute
   daily routine, and drafted comments and connection notes from posts the
-  user pastes in, substantive and in their voice. Use whenever a founder or
+  user pastes in. Use whenever a founder or
   business owner asks for a comment or
   engagement strategy, what to comment on a post, an engagement routine,
   help growing their network without being spammy, or a comment drafted for
-  a specific post they paste in. Also use when they ask to automate
-  commenting, DMs, or connecting: this skill answers that by declining the
-  automation and delivering the manual routine. Do NOT use this skill to
+  a specific post they paste in. Also use
+  when they ask to automate commenting, DMs, or connecting: it declines
+  the automation and delivers the manual routine. Do NOT use this skill to
   write the user's own posts (that's linkedin-post-writer), to repurpose
-  long-form content, to design carousels or visuals, or to answer strategy,
-  pillar, or calendar questions — it coaches engagement on other people's
-  posts, one human action at a time, and it never automates or publishes
-  anything.
+  long-form content, to design carousels or visuals, to answer strategy,
+  pillar, or calendar questions, or when "engagement" means their numbers
+  (engagement rate, impressions, post performance), which is
+  social-analytics-review's job; it coaches engagement on other people's
+  posts and never automates or publishes anything.
 ---
 
 # Engagement Comment Coach
@@ -59,6 +60,12 @@ The wish behind it (visibility and pipeline without wasted time) is
 completely legitimate; the tooling is the problem. Then deliver the manual
 routine below as the concrete alternative, sized to their time.
 
+Manual help from a real human is a different thing entirely: a founder's
+assistant reading posts and writing genuine comments at human volume,
+under the founder's direction, sits inside every rule here. What's banned
+is automation and volume no human is actually behind, not delegation to a
+person.
+
 ## Read the founder's files first
 
 Read `voice.md` and `about.md` from the working directory before drafting
@@ -66,8 +73,10 @@ anything. voice.md's rules and never-do list govern every comment and
 connection note: these are published under the founder's name on other
 people's posts, which is a worse place to sound generic than their own
 feed. about.md supplies the real experience and defended opinions that
-make a comment substantive. Missing files never block: draft in the
-default register (direct, plain, specific) and mention once, after the
+make a comment substantive. Missing files never block, but say plainly when one is absent ("no
+voice.md in this folder") and note that dropping it in or pasting its
+contents from an earlier session restores it; draft in the default
+register (direct, plain, specific) and mention once, after the
 deliverable, that founder-voice-profile builds the durable version.
 
 ## One-time setup: the engagement list
@@ -177,6 +186,15 @@ your reply.
 - **Per use** (drafting): each comment and connection note in a fenced
   code block so it copies clean, labeled with its type; character count
   noted for connection notes.
+
+## When the ask spans skills
+
+When the user's request covers more than this skill's job ("plan and write
+my october posts", "capture my voice then write a post"), deliver this
+skill's part in full, say plainly which part is done, and name the pack
+skill that owns the rest with an offer to continue there. Doing half of a
+compound request without saying so leaves the user thinking the other half
+was forgotten.
 
 ## Handing off
 

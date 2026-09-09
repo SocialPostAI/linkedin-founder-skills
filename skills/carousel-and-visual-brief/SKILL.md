@@ -10,8 +10,8 @@ description: >-
   visual or graphic for a post, write an image brief, or asks what the
   graphic for a post should look like. Do NOT use this skill to write a
   regular text post (that's linkedin-post-writer), to repurpose long-form
-  material into multiple posts (that's content-repurposer), or to answer
-  strategy, pillar, or calendar questions — it scripts one carousel and
+  material into multiple posts (that's content-repurposer), or to answer strategy,
+  pillar, or calendar questions; it scripts one carousel and
   briefs one visual, and it never renders images or publishes anything.
 ---
 
@@ -40,8 +40,10 @@ Read `voice.md` and `about.md` from the working directory before writing.
 voice.md's rules and never-do list govern every word of slide copy and
 overlay text: banned words never appear, its formatting habits win over any
 default here. about.md supplies facts the slides may use beyond the source.
-Missing files never block the work when the source material is in hand;
-draft in the default register (direct, plain, trusts the reader) and
+Missing files never block the work when the source material is in hand,
+but say plainly when one is absent ("no voice.md in this folder") and note
+that dropping it in or pasting its contents from an earlier session
+restores it; draft in the default register (direct, plain, trusts the reader) and
 mention once, after the deliverable, that founder-voice-profile builds the
 durable version.
 
@@ -179,6 +181,15 @@ your reply.
 3. **## Alt text**: the accessibility description
 4. One closing offer to adjust once: tighter slides, a bolder slide 1, or
    a different visual direction.
+
+## When the ask spans skills
+
+When the user's request covers more than this skill's job ("plan and write
+my october posts", "capture my voice then write a post"), deliver this
+skill's part in full, say plainly which part is done, and name the pack
+skill that owns the rest with an offer to continue there. Doing half of a
+compound request without saying so leaves the user thinking the other half
+was forgotten.
 
 ## Handing off
 
