@@ -19,6 +19,8 @@ A skill is a small instruction file that teaches Claude to do one job well, the 
 
 Each skill works on its own. Run in order, they pass files to each other through your working folder, so every step asks fewer questions than the last.
 
+The files they make (`voice.md`, `about.md`, `strategy.md`, `topic-bank.md`, `calendar.csv`) live in that folder and are yours to keep. A new session or a different app finds them again when the folder travels with you, and pasting a file's contents works exactly as well; if a skill can't find one, it says so and tells you how to bring it back. Worth knowing before you start: half the skills need something only you have before they can work well: real writing samples for the voice profile, your profile text and posts for the audit, a piece you already wrote for the repurposer, your analytics export for the review. Each asks for exactly what it needs in one message, and anything only you know shows up in output as a [bracketed slot] on purpose.
+
 ## Install
 
 ### Claude Code, one command

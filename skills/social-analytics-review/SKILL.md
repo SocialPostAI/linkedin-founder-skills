@@ -12,7 +12,7 @@ description: >-
   wants a monthly or quarterly social review. This skill is quantitative:
   it reads numbers. Do NOT use it to audit profile or post copy
   qualitatively (that's linkedin-presence-audit), to build calendars or
-  strategy, or to write posts — and it never scrapes, pulls, or estimates
+  strategy, or to write posts; it never scrapes, pulls, or estimates
   data it wasn't given.
 ---
 
@@ -48,6 +48,9 @@ Read what exists in the working directory before analyzing:
   exists when it doesn't.
 
 Missing files never block the review; they just narrow what it can say.
+Say plainly when an expected file is absent ("no calendar.csv in this
+folder, so no pillar analysis this month") and note that dropping it in or
+pasting its contents from an earlier session restores it.
 
 ## Intake (one message)
 
@@ -172,6 +175,15 @@ again:
 
 Run the check silently. Never mention it, the rules, or the technique in
 your reply.
+
+## When the ask spans skills
+
+When the user's request covers more than this skill's job ("plan and write
+my october posts", "capture my voice then write a post"), deliver this
+skill's part in full, say plainly which part is done, and name the pack
+skill that owns the rest with an offer to continue there. Doing half of a
+compound request without saying so leaves the user thinking the other half
+was forgotten.
 
 ## Handing off
 

@@ -1,17 +1,17 @@
 ---
 name: founder-voice-profile
 description: >-
-  Build a founder's reusable writing-voice profile — interview them or analyze
+  Build a founder's reusable writing-voice profile: interview them or analyze
   3–5 pasted samples of their real writing, then produce two files, voice.md
   and about.md, that future drafting sessions read to sound like the founder
   instead of like AI. Use this whenever a founder or business owner wants to
   sound like themselves on LinkedIn, complains their posts sound generic,
   robotic, or AI-written, asks to define, capture, or build their writing
   voice, tone, or style, or needs a personal voice guide before creating
-  content — even if they never say the word "voice" ("my posts don't sound
+  content, even if they never say the word "voice" ("my posts don't sound
   like me", "make my content less AI"). Do NOT use this skill to write a
   specific post on a given topic, or to audit or review a LinkedIn profile or
-  presence — it only builds the reusable voice profile.
+  presence; it only builds the reusable voice profile.
 ---
 
 # Founder Voice Profile
@@ -45,7 +45,7 @@ Never fabricate. Every rule in voice.md must be traceable to something they
 wrote or said; every fact and number in about.md must come from them. A voice
 profile with invented facts poisons every post later written from it.
 
-## Step 1 — Collect samples (or interview)
+## Step 1: Collect samples (or interview)
 
 Ask for 3–5 samples of their real writing, pasted into the chat: LinkedIn
 posts they wrote themselves, emails to customers or their team, a bio,
@@ -58,7 +58,7 @@ Me > Settings & Privacy > Data privacy > "Get a copy of your data", tick
 **Shares**, request the archive. The download link usually arrives by email
 within minutes and contains every post they've written (Shares.csv); they can
 paste their favorites from it. This is the honest answer to "isn't there a
-faster way than copy-paste" — offer it instead of, never alongside, any
+faster way than copy-paste": offer it instead of, never alongside, any
 scraping tool.
 
 If they have nothing to paste (or nothing they like), run this interview
@@ -81,42 +81,42 @@ While you have their attention, fold in whatever gaps remain for about.md
 Add those to the same message rather than starting a second round of
 questions.
 
-## Step 2 — Analyze
+## Step 2: Analyze
 
 Read the samples like an editor, not a fan. Work through each dimension and
 note concrete evidence:
 
-- **Sentence length and rhythm** — short and punchy? long with subclauses?
+- **Sentence length and rhythm**: short and punchy? long with subclauses?
   do they vary it deliberately?
-- **Vocabulary register** — plain, technical, salty, formal? do they use
+- **Vocabulary register**: plain, technical, salty, formal? do they use
   industry jargon or translate it?
-- **Humor** — none, dry, self-deprecating, absurd? how often?
-- **Directness** — do they hedge, or say the thing? do they soften criticism?
-- **Stance-taking** — do they take positions, name names, pick fights, or
+- **Humor**: none, dry, self-deprecating, absurd? how often?
+- **Directness**: do they hedge, or say the thing? do they soften criticism?
+- **Stance-taking**: do they take positions, name names, pick fights, or
   stay neutral?
-- **Formatting habits** — line breaks, one-line paragraphs, emoji, lists,
+- **Formatting habits**: line breaks, one-line paragraphs, emoji, lists,
   punctuation quirks (ellipses, parentheses, ALL CAPS).
 
-A rule you can't tie to evidence in a sample or interview answer is a guess —
-leave it out.
+A rule you can't tie to evidence in a sample or interview answer is a
+guess; leave it out.
 
 One deliberate exception to "evidence wins": em dashes. Even when the
 founder's own samples use them, they go on the never-do list and never into a
-rule, because readers now pattern-match em dashes to AI-written text — the
+rule, because readers now pattern-match em dashes to AI-written text. The
 profile exists to stop posts reading as AI, and an authentic em dash costs the
 same credibility as a generated one. Capture what the founder's em dashes were
 doing (a hard pivot, an aside, a twist at the end) and express that move with
 punctuation that survives: a period and a short pivot sentence ("Anyway."), a
 comma, or parentheses.
 
-## Step 3 — Write voice.md
+## Step 3: Write voice.md
 
 10–15 rules, concrete and imitable: a ghostwriter who never met the founder
 should be able to follow each one. Every rule gets a short example, with no
-exceptions — for a formatting or punctuation rule, show a two-line formatted
+exceptions; for a formatting or punctuation rule, show a two-line formatted
 snippet rather than skipping the example. Lift or adapt examples from the
 founder's own samples; when quoting a sample verbatim, keep it verbatim (a
-quoted em dash in their original text is fine inside a quote — it's evidence,
+quoted em dash in their original text is fine inside a quote; it's evidence,
 not a recommendation).
 
 Use these exact sections:
@@ -128,7 +128,7 @@ Built from [N pasted samples / interview answers] on [date].
 
 ## Rules
 
-1. **[Imitable rule]** — [when/why it applies]
+1. **[Imitable rule]**: [when/why it applies]
    Example: "[short example in their voice]"
 
 (...10–15 rules total, each with an example...)
@@ -166,15 +166,24 @@ Founder's own list: [the words and phrases they said they'd never use, from
 Step 1]
 ```
 
-The generic entries stay in every profile — they are the tells that make
+The generic entries stay in every profile: they are the tells that make
 posts read as AI-written, which is the exact problem this profile exists to
 prevent. Add the founder's personal entries after them.
+
+One precedence rule inside that: the founder's real domain vocabulary,
+evidenced in their samples, wins over the generic list. When a word on the
+list is genuinely how their field talks (a security founder writing
+"robust controls", an ops founder writing "streamline a changeover"), keep
+it out of their never-do list and record it in the rules as their word,
+with the sample as evidence. The generic list exists to ban AI-average
+filler, not a profession's working vocabulary; a profile that strips the
+founder's own terms sounds less like them, which defeats the file.
 
 Your own prose in voice.md and about.md follows the same standard: no em
 dashes and none of the banned vocabulary outside verbatim founder quotes. A
 style guide that commits the sins it bans teaches the reader to ignore it.
 
-## Step 4 — Write about.md
+## Step 4: Write about.md
 
 Use these exact sections:
 
@@ -203,20 +212,48 @@ their samples, or what they told you. If you have fewer than 3, ask; don't
 invent.]
 ```
 
-## Step 5 — Save and hand back
+## Step 5: Save and hand back
 
 Save `voice.md` and `about.md` to the working directory. Then, in chat, give
 a 5-line summary of the voice: the essence someone would need to imitate
-them. Tell the user that the other skills in this pack look for `voice.md`
-and `about.md` in the working directory, so they should keep the files there
-(or bring them to future sessions) and refresh them when their positioning
-changes.
+them. Tell the user plainly that these two files are theirs to keep and are
+how every other skill in this pack sounds like them: the skills look for
+them in the working folder, and in a fresh session or another app the user
+can drop the files in or simply paste their contents and everything still
+works. Say it once, concretely; a founder who loses these files loses the
+voice, and "it forgot me" is usually a missing file, not a broken skill.
+Refresh the files when positioning changes.
+
+## Self-check before delivering (silent, mandatory)
+
+Re-read your entire reply line by line before you respond, voice.md and
+about.md included. Fix what you find, then check again:
+
+- Any rule in voice.md you can't tie to a sample or interview answer: cut
+  it. Any fact or number in about.md the user didn't supply: cut it or ask.
+- Any line that sounds quotable and was freshly coined by you, in the
+  files OR in functional-sounding meta-text: replace it with the concrete
+  point.
+- Any em dash, banned vocabulary, or rule-of-three padding in your own
+  prose, outside verbatim founder quotes: rewrite the line.
+
+Run the check silently. Never mention it, the rules, or the technique in
+your reply.
 
 ## Output format (always)
 
-1. `voice.md` — saved to the working directory
-2. `about.md` — saved to the working directory
+1. `voice.md`: saved to the working directory
+2. `about.md`: saved to the working directory
 3. A 5-line voice summary in chat
+
+## When the ask spans skills
+
+When the user's request covers more than this skill's job ("plan and write
+my october posts", "capture my voice then write a post"), deliver this
+skill's part in full, say plainly which part is done, and name the pack
+skill that owns the rest with an offer to continue there. Doing half of a
+compound request without saying so leaves the user thinking the other half
+was forgotten.
 
 ## Handing off
 

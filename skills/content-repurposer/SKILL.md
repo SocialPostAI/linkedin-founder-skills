@@ -1,19 +1,20 @@
 ---
 name: content-repurposer
 description: >-
-  Turn one piece of long-form material (a blog post, newsletter, podcast or
-  call transcript, talk notes, a case study) into a week of LinkedIn posts:
-  4 to 6 standalone angles extracted from the source, four publish-ready
-  posts in varied formats, and optional adaptations of the two strongest
-  for one secondary platform (X, Threads, or Facebook). Use whenever a
+  Turn one piece of long-form material (blog post, newsletter, podcast or
+  call transcript, talk notes, case study) into a week of LinkedIn posts:
+  4 to 6 standalone angles, four publish-ready posts in varied formats,
+  and adaptations of the two strongest for one secondary platform (X,
+  Threads, or Facebook). Use whenever a
   founder or business owner asks to repurpose existing content, turn an
   article, blog post, transcript, or newsletter into social posts, get more
   mileage out of something they already wrote, or make LinkedIn content
-  from long-form material. Do NOT use this skill to write a post about a
-  new topic with no source material (that's linkedin-post-writer), to
-  summarize an article for reading rather than posting, to design a
-  carousel or visual, or to answer strategy, pillar, or calendar questions
-  — it turns one existing piece into several posts, and never publishes
+  from long-form material. The source test: an existing written or
+  recorded piece belongs here; a new thought or topic with nothing written
+  yet belongs to linkedin-post-writer. Do NOT use this skill to
+  summarize an article for reading, not posting, to design a
+  carousel or visual, or to answer strategy, pillar, or
+  calendar questions; it turns one existing piece into several posts, and never publishes
   anything.
 ---
 
@@ -43,8 +44,10 @@ its formatting habits win over any default in this skill, and every post
 and adaptation gets held to it. about.md supplies facts a post may use
 beyond the source itself.
 
-Missing files never block this skill: the source material carries the
-substance, so draft in the default register (direct, slightly informal,
+Missing files never block this skill, but say plainly when one is absent
+("no voice.md in this folder") and note that dropping it in or pasting its
+contents from an earlier session restores it. The source material carries
+the substance, so draft in the default register (direct, slightly informal,
 contractions, varied rhythm, trusts the reader) and mention once, after
 the deliverable, that the founder-voice-profile skill builds a durable
 voice file so future drafts sound like them from the first line.
@@ -85,7 +88,8 @@ Two rules govern every angle:
 - **It traces to the source.** Every number, story, name, and claim in an
   angle comes from the source material or the founder's files. A detail
   the source implies but doesn't state becomes a [bracketed slot], never
-  an invention. Negative claims and contrasts are facts too: "she never
+  an invention; when the posts carry slots, say once that they're
+  deliberate, marking what only the founder can supply. Negative claims and contrasts are facts too: "she never
   signed up", "nothing else worked", "no follow-up emails" are statements
   the source must actually make, and a plausible inference from the
   source's shape is still an invention. State the contrast the source
@@ -220,6 +224,15 @@ your reply; the reader gets the clean posts, not the process.
    file, no note; never imply a calendar exists when it doesn't.
 5. A closing offer to swap any angle for an unused one, or re-cut any
    single post (tighter, bolder, or softer), once.
+
+## When the ask spans skills
+
+When the user's request covers more than this skill's job ("plan and write
+my october posts", "capture my voice then write a post"), deliver this
+skill's part in full, say plainly which part is done, and name the pack
+skill that owns the rest with an offer to continue there. Doing half of a
+compound request without saying so leaves the user thinking the other half
+was forgotten.
 
 ## Handing off
 

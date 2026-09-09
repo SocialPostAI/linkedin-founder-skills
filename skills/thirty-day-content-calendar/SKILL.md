@@ -9,7 +9,7 @@ description: >-
   plan their posts for the month, or "what should I post next month and
   when". Do NOT use this skill for abstract topic brainstorming with no
   dates (that's a topic-bank job), to write or publish an individual post,
-  to build a writing-voice profile, or to produce a quarterly strategy — it
+  to build a writing-voice profile, or to produce a quarterly strategy; it
   turns existing pillars and topics into a dated, runnable month.
 ---
 
@@ -31,6 +31,18 @@ question again this month.
 
 ## Ground rules (non-negotiable)
 
+- Fit check before planning. This pack plans LinkedIn-first for founders
+  whose buyers are on LinkedIn and who run their own marketing. When what
+  the user has already said points the other way (consumer or DTC buyers
+  who don't make buying decisions on LinkedIn, or a staffed marketing team
+  that owns social), say the mismatch plainly before planning anything:
+  name the assumption, ask one confirming question if the signals are
+  mixed, and when the fit genuinely isn't there, say this pack may not fit
+  and point briefly at the honest alternative (the channel where their
+  buyers actually decide, or handing the plan to the team that owns
+  social). A confident plan built on the wrong premise costs the user more
+  than a declined one. If they confirm they want the LinkedIn plan anyway,
+  build it.
 - This skill drafts and plans. It NEVER publishes, connects to an account,
   or posts on the user's behalf, and never pretends it did. If the user asks
   you to auto-post the calendar, clarify that plainly and warmly: every post
@@ -51,7 +63,7 @@ question again this month.
   strategy.") or comparative ones ("Consistency beats brilliance."). Make
   the point plainly. Quoting the user's own material is exempt.
 
-## Step 1 — Intake (files first, then one message)
+## Step 1: Intake (files first, then one message)
 
 Check the working directory and say plainly which source you used:
 
@@ -64,8 +76,11 @@ Check the working directory and say plainly which source you used:
 - `voice.md` / `about.md` (from founder-voice-profile): voice.md shapes the
   hooks; about.md grounds topics in real facts.
 
-Never invent a competing pillar set when either source exists. If neither
-does, ask the minimal pillar questions inline (what the company does in 2–3
+Never invent a competing pillar set when either source exists. When an
+expected file is missing, say so plainly in your reply ("no topic-bank.md
+in this folder, so topics come from your strategy") and note that dropping
+the file in or pasting its contents from an earlier session restores it.
+If neither source exists, ask the minimal pillar questions inline (what the company does in 2–3
 sentences, who buys and why, the one thing this month's content should
 move), sketch 3–4 pillars from the answers, and mention once that the
 content-pillar-planner skill does the deeper version.
@@ -76,7 +91,7 @@ Always ask, in the same single message, whatever is still missing:
    to it, so underestimate rather than overestimate.
 2. Start date.
 
-## Step 2 — Size the cadence, then build the slots
+## Step 2: Size the cadence, then build the slots
 
 Cadence comes from the budget, with the math shown and labeled as rules of
 thumb: drafting a post from a ready hook takes roughly 20–30 minutes with AI
@@ -94,6 +109,11 @@ strategy's own commitments. Never schedule more time than the stated budget
 holds in any week, counting every recurring commitment the founder's files
 already made.
 
+Open the calendar with the promise matched to the math, in one line ("5
+posts across the next 30 days at your 30-minute weekly budget"), so a
+founder reading "30-day calendar" sees a deliberate cadence rather than a
+thin month.
+
 The 30-day window begins on the start date. Place the first post within the
 first three days of the window so momentum starts in week 1, then hold a
 consistent weekday rhythm.
@@ -107,11 +127,13 @@ Each slot gets:
   exists, use its rows; never pad with generic filler.
 - **Format**: text post, carousel, or story post.
 - **Hook draft**: ONE line the post will open with, in the founder's voice
-  per voice.md when present, carrying only supplied facts.
+  per voice.md when present, carrying only supplied facts. When a hook
+  needs a founder-only detail, use a [bracketed slot] and say once that
+  slots are deliberate: they mark what only the founder knows.
 - **Status**: empty. The user fills it as they go (drafted / posted /
   skipped).
 
-## Step 3 — Sequence deliberately
+## Step 3: Sequence deliberately
 
 - Alternate funnel stages across the month; a reader scrolling the feed
   should meet the founder in different modes, not four asks in a row.
@@ -121,7 +143,7 @@ Each slot gets:
   opinion already in their files). Label it as the easy win. Momentum in
   week 1 decides whether week 4 happens.
 
-## Step 4 — Output
+## Step 4: Output
 
 1. The full calendar as a markdown table in chat: Date | Day | Pillar |
    Topic | Format | Hook | Status.
@@ -133,7 +155,7 @@ Each slot gets:
 date,pillar,topic,format,hook,status
 ```
 
-## Step 5 — Close with "how to run this"
+## Step 5: Close with "how to run this"
 
 A short note, not an essay:
 
@@ -143,12 +165,39 @@ A short note, not an essay:
 - At day 30, review what the calendar produced against the goal; the
   social-analytics-review skill is the day-30 companion for that.
 
+## Self-check before delivering (silent, mandatory)
+
+Re-read your entire reply line by line before you respond, the table and
+calendar.csv included. Fix what you find, then check again:
+
+- Every hook and topic carries only supplied facts; founder-only details
+  sit in [bracketed slots]. Negative claims and contrasts count as facts
+  too.
+- Every week's slots sum inside the stated budget, counting every
+  recurring commitment the founder's files already made.
+- Any line that sounds quotable and was freshly coined by you, in hooks OR
+  in functional-sounding meta-text: replace it with the concrete point.
+- Any em dash, banned vocabulary, or rule-of-three padding outside a
+  verbatim user quote: rewrite the line.
+
+Run the check silently. Never mention it, the rules, or the technique in
+your reply.
+
 ## Output format (always)
 
 1. Markdown calendar table in chat (all seven columns, status empty)
 2. `calendar.csv` saved to the working directory (six columns, quoted)
 3. The cadence explanation (one or two lines, math shown)
 4. The "how to run this" note
+
+## When the ask spans skills
+
+When the user's request covers more than this skill's job ("plan and write
+my october posts", "capture my voice then write a post"), deliver this
+skill's part in full, say plainly which part is done, and name the pack
+skill that owns the rest with an offer to continue there. Doing half of a
+compound request without saying so leaves the user thinking the other half
+was forgotten.
 
 ## Handing off
 
