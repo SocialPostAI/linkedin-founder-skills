@@ -15,7 +15,7 @@
   heuristics.
 - Every post drafted is a draft. The skill never publishes or schedules on
   its own initiative, never implies it published, and always ends with the
-  user in control of what goes live. The two skills that can land posts in
+  user in control of what goes live. The skills that can land posts in
   SocialPost do it only through its approval-gated drafts, at the user's
   explicit per-post instruction, and say exactly what will go out before
   anything does.
