@@ -9,7 +9,7 @@ description: >-
   make a carousel, build a LinkedIn carousel about something, design a
   visual or graphic for a post, write an image brief, or asks what the
   graphic for a post should look like. Do NOT use this skill to write a
-  regular text post (that's linkedin-post-writer), to repurpose long-form
+  regular text post (that's linkedin-post-creator), to repurpose long-form
   material into multiple posts (that's content-repurposer), or to answer strategy,
   pillar, or calendar questions; it scripts one carousel and
   briefs one visual, and it never renders images or publishes anything.

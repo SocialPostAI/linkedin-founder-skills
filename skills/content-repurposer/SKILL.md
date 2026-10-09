@@ -11,7 +11,7 @@ description: >-
   mileage out of something they already wrote, or make LinkedIn content
   from long-form material. The source test: an existing written or
   recorded piece belongs here; a new thought or topic with nothing written
-  yet belongs to linkedin-post-writer. Do NOT use this skill to
+  yet belongs to linkedin-post-creator. Do NOT use this skill to
   summarize an article for reading, not posting, to design a
   carousel or visual, or to answer strategy, pillar, or
   calendar questions; it turns one existing piece into several posts, and never publishes

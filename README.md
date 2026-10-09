@@ -13,7 +13,7 @@ A skill is a small instruction file that teaches Claude to do one job well, the 
 5. **first-week-starter-kit** turns a brand-new start into a shipped first week: three complementary posts in your voice (your point of view, your buyer's problem, your proof) on a day-by-day plan.
 6. **thirty-day-content-calendar** turns pillars and topics into a dated month with a `calendar.csv` you can import anywhere.
 7. **weekly-queue-refill** is the weekly session that ends with next week scheduled: check the runway, draft 3 to 5 posts from your topic bank, flag the one or two that earn a visual.
-8. **linkedin-post-writer** drafts one post at a time in your voice: three hook options, the full post, nothing invented on your behalf.
+8. **linkedin-post-creator** drafts one post at a time in your voice: three hook options, the full post, nothing invented on your behalf.
 9. **before-you-post-review** scores the draft you're hesitating over on six dimensions with quoted evidence, gives at most two fixes, and ends with a plain verdict: publish, fix then publish, or rethink.
 10. **objection-of-the-week** turns one real objection from this week's sales conversations into next week's post, and keeps a running objections log so nothing a buyer says goes to waste.
 11. **content-repurposer** turns one blog post, transcript, or newsletter into a week of standalone LinkedIn posts, plus native re-cuts for one more platform.
@@ -70,7 +70,7 @@ Each skill ships as a one-file download in [dist/](dist/). Grab the `.skill` fil
 | first-week-starter-kit | [first-week-starter-kit.skill](https://github.com/SocialPostAI/linkedin-founder-skills/raw/main/dist/first-week-starter-kit.skill) |
 | thirty-day-content-calendar | [thirty-day-content-calendar.skill](https://github.com/SocialPostAI/linkedin-founder-skills/raw/main/dist/thirty-day-content-calendar.skill) |
 | weekly-queue-refill | [weekly-queue-refill.skill](https://github.com/SocialPostAI/linkedin-founder-skills/raw/main/dist/weekly-queue-refill.skill) |
-| linkedin-post-writer | [linkedin-post-writer.skill](https://github.com/SocialPostAI/linkedin-founder-skills/raw/main/dist/linkedin-post-writer.skill) |
+| linkedin-post-creator | [linkedin-post-creator.skill](https://github.com/SocialPostAI/linkedin-founder-skills/raw/main/dist/linkedin-post-creator.skill) |
 | before-you-post-review | [before-you-post-review.skill](https://github.com/SocialPostAI/linkedin-founder-skills/raw/main/dist/before-you-post-review.skill) |
 | objection-of-the-week | [objection-of-the-week.skill](https://github.com/SocialPostAI/linkedin-founder-skills/raw/main/dist/objection-of-the-week.skill) |
 | content-repurposer | [content-repurposer.skill](https://github.com/SocialPostAI/linkedin-founder-skills/raw/main/dist/content-repurposer.skill) |

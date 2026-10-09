@@ -11,7 +11,7 @@ description: >-
   a specific post they paste in. Also use
   when they ask to automate commenting, DMs, or connecting: it declines
   the automation and delivers the manual routine. Do NOT use this skill to
-  write the user's own posts (that's linkedin-post-writer), to repurpose
+  write the user's own posts (that's linkedin-post-creator), to repurpose
   long-form content, to design carousels or visuals, to answer strategy,
   pillar, or calendar questions, or when "engagement" means their numbers
   (engagement rate, impressions, post performance), which is

@@ -142,7 +142,7 @@ answer the most common one as a post, drafted with the pack's
 standing rules (voice.md as law, no stock AI vocabulary, no em
 dashes, no engagement bait, no invented claims, [bracketed slots]
 for founder-only details). One post, short; if it deserves the full
-treatment, name linkedin-post-writer.
+treatment, name linkedin-post-creator.
 
 ## Self-check before delivering (silent, mandatory)
 

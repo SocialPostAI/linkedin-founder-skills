@@ -13,7 +13,7 @@ description: >-
   closed the round, what do I post". The source test: one event to
   announce belongs here; a routine month belongs to
   thirty-day-content-calendar, repurposing a published article to
-  content-repurposer, and a single post to linkedin-post-writer. Do
+  content-repurposer, and a single post to linkedin-post-creator. Do
   NOT use this skill for ongoing cadence, strategy, or events the
   founder is merely attending.
 ---

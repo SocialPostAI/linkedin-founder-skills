@@ -168,7 +168,7 @@ it means.]
 In chat (not in the document), give exactly three example post angles that
 fit the pillars: one line each, the angle plus which pillar it serves.
 Angles, not drafts; say plainly that drafting the actual posts is the
-linkedin-post-writer skill's job, so the user knows where to go next.
+linkedin-post-creator skill's job, so the user knows where to go next.
 
 ## Self-check before delivering (silent, mandatory)
 
@@ -194,7 +194,7 @@ your reply.
 1. `strategy.md` saved to the working directory, with exactly the seven
    sections above
 2. In chat: a short summary of the strategy's core bet, then the three post
-   angles (labeled as angles, with the pointer to linkedin-post-writer)
+   angles (labeled as angles, with the pointer to linkedin-post-creator)
 
 ## When the ask spans skills
 

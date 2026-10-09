@@ -12,7 +12,7 @@ description: >-
   going out next week", "I'm about to run out of posts". The source
   test: filling the coming week inside an existing rhythm belongs
   here; building the month-long plan belongs to
-  thirty-day-content-calendar, one post to linkedin-post-writer, and a
+  thirty-day-content-calendar, one post to linkedin-post-creator, and a
   brand-new start to first-week-starter-kit. Do NOT use this skill to
   set strategy or pillars (social-strategy-90-day,
   content-pillar-planner).
@@ -111,7 +111,7 @@ slots], varied rhythm, hook in the first two lines, ending matched to
 the post's goal. Batch speed never lowers the bar: a founder who
 skims five mediocre drafts into their queue pays for it in silence
 all week. If one post deserves a deeper pass (three hook options, a
-revision round), hand that one to linkedin-post-writer by name.
+revision round), hand that one to linkedin-post-creator by name.
 
 ## The visual call
 

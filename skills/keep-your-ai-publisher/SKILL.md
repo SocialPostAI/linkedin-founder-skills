@@ -12,7 +12,7 @@ description: >-
   other platforms, or posted everywhere, including compound asks that
   end in shipping ("check this, then schedule it"). The source test:
   text already written belongs here; a topic that still needs writing
-  belongs to linkedin-post-writer, and a blog post or transcript to
+  belongs to linkedin-post-creator, and a blog post or transcript to
   mine belongs to content-repurposer. Do NOT use this skill to write or
   substantially rewrite content, to score a draft someone is unsure
   about (before-you-post-review), or to design a carousel

@@ -160,7 +160,7 @@ date,pillar,topic,format,hook,status
 A short note, not an essay:
 
 - Batch-write weekly: one sitting per week, drafting that week's slots from
-  their hooks (the linkedin-post-writer skill drafts them in your voice).
+  their hooks (the linkedin-post-creator skill drafts them in your voice).
 - Post manually, or hand the drafts to a scheduler.
 - At day 30, review what the calendar produced against the goal; the
   social-analytics-review skill is the day-30 companion for that.

@@ -11,7 +11,7 @@ description: >-
   "turn this objection into content", "I keep hearing the same
   question on calls", "what do I post when I have nothing to say".
   The source test: something a real buyer actually said belongs here;
-  a general topic, story, or take belongs to linkedin-post-writer,
+  a general topic, story, or take belongs to linkedin-post-creator,
   and the comments under the founder's own posts to
   comments-to-pipeline. Do NOT use this skill with invented or
   hypothetical objections; the input is a real conversation, and the
@@ -60,7 +60,7 @@ offer weekly-queue-refill for this week's post instead; and if the
 founder offers a hypothetical, decline it plainly: the post's
 authority comes from a real conversation, and an invented objection
 produces exactly the manufactured content this pack bans. A general
-topic is linkedin-post-writer's job.
+topic is linkedin-post-creator's job.
 
 Check `objections-log.md` before drafting: a repeat objection is a
 stronger post (it's a pattern, and the founder can say so), but a

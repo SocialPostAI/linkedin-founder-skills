@@ -13,7 +13,7 @@ description: >-
   The source test: nothing queued and no posting rhythm yet belongs
   here; a month plan from existing pillars belongs to
   thirty-day-content-calendar, and one more post in an existing rhythm
-  to linkedin-post-writer. Do NOT use this skill to build the voice
+  to linkedin-post-creator. Do NOT use this skill to build the voice
   profile (founder-voice-profile), audit a profile
   (linkedin-presence-audit), or plan a quarter (social-strategy-90-day).
 ---
@@ -89,7 +89,7 @@ Write all three with the pack's standing rules: no stock AI vocabulary
 bait, no freshly coined aphorisms, claims traceable to the founder's
 material or files, varied sentence rhythm, short paragraphs with the
 hook in the first two lines. For the rhythm after this week,
-weekly-queue-refill is the tool, with linkedin-post-writer for
+weekly-queue-refill is the tool, with linkedin-post-creator for
 single posts; say so once at the end.
 
 ## The week-one plan
@@ -136,7 +136,7 @@ not. Run the check silently and never mention it in your reply.
    timezone, post or comment block, first-hour note)
 4. One line on week two: founder-voice-profile to make the voice
    durable, then weekly-queue-refill for the ongoing rhythm, with
-   linkedin-post-writer for one-off posts
+   linkedin-post-creator for one-off posts
 
 ## If the SocialPost MCP is connected
 

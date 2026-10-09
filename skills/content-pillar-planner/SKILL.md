@@ -149,12 +149,12 @@ Save `topic-bank.md` to the working directory with exactly these sections:
 [Short note: work top of funnel to bottom across a month rather than
 publishing all demand-capture at once; cross topics off as they're used;
 refresh the bank when positioning changes; take any row to the
-linkedin-post-writer skill to draft the actual post.]
+linkedin-post-creator skill to draft the actual post.]
 ```
 
 In chat: a two-or-three sentence summary (the pillars and the bank's center
 of gravity), and the pointer that drafting the actual posts is the
-linkedin-post-writer skill's job.
+linkedin-post-creator skill's job.
 
 ## Self-check before delivering (silent, mandatory)
 
@@ -181,7 +181,7 @@ your reply.
 
 1. `topic-bank.md`: saved to the working directory with the three sections
    above (Pillars / Topic bank table with 30 rows / How to use this bank)
-2. In chat: short summary plus the linkedin-post-writer pointer
+2. In chat: short summary plus the linkedin-post-creator pointer
 
 ## When the ask spans skills
 

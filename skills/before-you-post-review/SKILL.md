@@ -11,7 +11,7 @@ description: >-
   it's good, wants a verdict or a check for AI tells, or is hesitating
   to hit post. The source test: an existing draft to judge belongs
   here; a topic that still needs writing belongs to
-  linkedin-post-writer, and shipping an approved post, including
+  linkedin-post-creator, and shipping an approved post, including
   compound asks like "check this, then schedule it," belongs to
   keep-your-ai-publisher. Do NOT use this skill to analyze how
   already-published posts performed (that's social-analytics-review),
@@ -110,7 +110,7 @@ End with exactly one of:
 - **Fix then publish**: at most TWO fixes, the two with the highest
   leverage, each tied to a scored dimension and small enough to apply
   in five minutes. More than two fixes stops being a review; if the
-  draft needs that much, say so and name linkedin-post-writer.
+  draft needs that much, say so and name linkedin-post-creator.
 - **Rethink**: reserved for posts that would cost trust if published:
   an unverifiable claim at the center, a voice so far off that readers
   who know the founder would notice, a topic that serves the founder's
@@ -138,7 +138,7 @@ founder-only detail becomes a [bracketed slot], never an invented
 number, name, or story. The rest of the post stays theirs, untouched.
 Omit the rewrite on a clean publish verdict and on rethink, where a
 passage-level fix would miss the point. If they ask for a full
-rewrite, that's linkedin-post-writer with this draft as raw material;
+rewrite, that's linkedin-post-creator with this draft as raw material;
 name it and offer to continue there.
 
 ## Self-check before delivering (silent, mandatory)

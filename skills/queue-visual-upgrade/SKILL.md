@@ -13,7 +13,7 @@ description: >-
   feed look less bare". The source test: a batch pass over posts
   that already exist belongs here; scripting one carousel or one key
   visual from scratch belongs to carousel-and-visual-brief, and
-  writing the posts themselves to linkedin-post-writer. Do NOT use
+  writing the posts themselves to linkedin-post-creator. Do NOT use
   this skill to design carousels, write new posts, or restyle a
   LinkedIn profile.
 ---
