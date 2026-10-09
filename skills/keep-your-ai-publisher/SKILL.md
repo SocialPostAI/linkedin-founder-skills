@@ -204,8 +204,11 @@ On a clear yes, work with the tools as they actually behave:
    Instagram from scheduling and say why in one line.
 4. `preview_publish` and show the founder exactly what will ship,
    per account, before anything is scheduled.
-5. `schedule_post` only for a time the founder has stated or approved,
-   with their IANA timezone, at least 10 minutes out. One call per
+5. `schedule_post` only for a time the founder has stated or approved
+   explicitly (a generic "looks good" is not that approval: ask
+   again, naming the time, and never call schedule_post in the same
+   reply that asks), with their IANA timezone, at least 10 minutes
+   out. One call per
    draft, carrying the complete profile list for that time: a second
    call on the same draft with a different profile subset silently
    unschedules the profiles you left out. If the result reports
@@ -255,7 +258,9 @@ post and schedule it", "review this and then post it everywhere"),
 deliver this skill's part in full, say plainly which part is done, and
 name the pack skill that owns the rest with an offer to continue there.
 Doing half of a compound request without saying so leaves the user
-thinking the other half was forgotten.
+thinking the other half was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 

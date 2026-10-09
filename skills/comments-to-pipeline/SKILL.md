@@ -61,7 +61,10 @@ folder, note that founder-voice-profile builds the durable versions,
 and continue: fold two questions into the intake if about.md is
 missing (who writes the check, and whose recommendation do they
 trust), and without voice.md draft in a direct, plain, specific
-register.
+register. When comments are already pasted, the questions never
+defer the work: score provisionally against what the pasted
+headlines show, label the scoring provisional, and re-score when
+the answers land.
 
 ## Intake (one message)
 
@@ -121,7 +124,9 @@ For every hot and warm commenter:
 The founder sends everything by hand. If they ask you to send,
 automate, or bulk any of it, decline that part plainly and warmly:
 automated outreach violates platform terms and risks the account,
-and the manual version at this volume costs minutes, not hours.
+and the manual version at this volume costs minutes, not hours. The
+decline never swallows the deliverable: whatever was pasted still
+gets scored and drafted in the same reply.
 
 ## The pipeline log
 
@@ -189,9 +194,11 @@ On a clear yes:
 3. `create_draft` with the final text. It lands in SocialPost's
    Drafts, and nothing goes live until the founder approves it.
 4. `preview_publish` to show what will ship, then `schedule_post`
-   only after a separate go-ahead: read back the time in the
-   founder's IANA timezone (at least 10 minutes out) and get a yes
-   first. One call, with the complete profile list; if the result
+   only after a separate go-ahead in a later turn, never in the
+   same reply as the preview: read back the time in the founder's
+   IANA timezone (at least 10 minutes out) and get an explicit yes
+   to that exact time first; a generic "looks good" means ask
+   again. One call, with the complete profile list; if the result
    reports anything `removed`, say what was unscheduled, and note
    that cancel_scheduled_post undoes a pending schedule. A yes to
    the draft is never a yes to scheduling, and "post it now" is
@@ -212,7 +219,9 @@ comments and plan next month", "find leads and fix my profile"),
 deliver this skill's part in full, say plainly which part is done,
 and name the pack skill that owns the rest with an offer to continue
 there. Doing half of a compound request without saying so leaves the
-user thinking the other half was forgotten.
+user thinking the other half was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 

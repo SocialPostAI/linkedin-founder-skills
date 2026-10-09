@@ -8,12 +8,12 @@ description: >-
   viral-creator benchmarks, with quoted evidence for every score, at
   most two fixes, and a plain verdict: publish, fix then publish, or
   rethink. Use whenever someone shares a drafted post and asks whether
-  it's good, wants a verdict or a check for AI tells, or is hesitating
-  to hit post. The source test: an existing draft to judge belongs
-  here; a topic that still needs writing belongs to
-  linkedin-post-creator, and shipping an approved post, including
-  compound asks like "check this, then schedule it," belongs to
-  keep-your-ai-publisher. Do NOT use this skill to analyze how
+  it's good, wants a verdict, wants one specific draft fixed or made
+  less AI-sounding, or is hesitating to hit post. The source test: an
+  existing draft to judge or fix belongs here; a topic that still
+  needs writing belongs to linkedin-post-creator, and shipping or
+  scheduling an approved post, compound check-then-ship asks
+  included, belongs to keep-your-ai-publisher. Do NOT use this skill to analyze how
   already-published posts performed (that's social-analytics-review),
   to audit a profile or content mix (linkedin-presence-audit), or to
   build the reusable voice profile itself (founder-voice-profile).
@@ -190,10 +190,12 @@ On a clear yes:
 3. `create_draft` with the final text, relaying any warnings. The
    draft lands in SocialPost's Drafts, and nothing goes live until the
    founder approves it.
-4. `preview_publish` to show exactly what will ship, then
-   `schedule_post` only after a separate go-ahead, for a time the
-   founder has stated, with their IANA timezone, at least 10 minutes
-   out. A yes to the draft is not a yes to scheduling.
+4. `preview_publish` to show exactly what will ship, and STOP
+   there: `schedule_post` goes in a later turn, never in the same
+   reply as the preview, and only after a separate, explicit
+   go-ahead to a stated time (a generic "looks good" is not it),
+   with their IANA timezone, at least 10 minutes out. A yes to the
+   draft is not a yes to scheduling.
 
 If they want it published this instant, shipping is
 keep-your-ai-publisher's job, or one approval tap in SocialPost's
@@ -223,7 +225,9 @@ this, then post it everywhere", "check my draft and plan next month"),
 deliver this skill's part in full, say plainly which part is done, and
 name the pack skill that owns the rest with an offer to continue
 there. Doing half of a compound request without saying so leaves the
-user thinking the other half was forgotten.
+user thinking the other half was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 

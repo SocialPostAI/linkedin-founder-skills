@@ -177,7 +177,11 @@ afterward. On a clear yes:
 4. `preview_publish` per draft, showing exactly what will ship.
 5. `schedule_post` per draft: immediately before each call, read
    back that post's day and time in the founder's timezone and get
-   a yes (the week table is a proposal, not approval), then one
+   an explicit yes to that exact time (the week table is a
+   proposal, not approval, and a generic acknowledgment like "looks
+   good" answering a stacked question is not the yes: ask again,
+   naming the day and time, in a reply that asks nothing else).
+   Never call schedule_post in the same reply that asks. Then one
    call with the complete profile list, at least 10 minutes out.
    schedule_post replaces a post's entire pending schedule, so any
    time change is a new call with the full list; relay anything the
@@ -210,7 +214,9 @@ whole LinkedIn and write my first posts", "build my voice then get me
 started"), deliver this skill's part in full, say plainly which part
 is done, and name the pack skill that owns the rest with an offer to
 continue there. Doing half of a compound request without saying so
-leaves the user thinking the other half was forgotten.
+leaves the user thinking the other half was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 

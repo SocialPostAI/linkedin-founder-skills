@@ -184,7 +184,10 @@ On a clear yes:
    `attach_media` on that draft.
 4. Scheduling, per post and explicit: show one table (post, its
    final text's first line, account, day and time in the founder's
-   timezone), and a yes to that table is the approval. Then per
+   timezone), and only an explicit yes to that table is the
+   approval: a generic "looks good", or an answer to some other
+   question, means ask again, and schedule_post never rides in the
+   same reply that first shows the table. Then per
    confirmed post, `preview_publish` and `schedule_post` with the
    founder's IANA timezone, at least 10 minutes out, one call per
    draft with its complete profile list. schedule_post replaces a
@@ -219,7 +222,9 @@ quarter and fill next week", "refill my queue and review my
 analytics"), deliver this skill's part in full, say plainly which
 part is done, and name the pack skill that owns the rest with an
 offer to continue there. Doing half of a compound request without
-saying so leaves the user thinking the other half was forgotten.
+saying so leaves the user thinking the other half was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 

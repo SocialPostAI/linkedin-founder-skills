@@ -175,6 +175,9 @@ calendar.csv included. Fix what you find, then check again:
   too.
 - Every week's slots sum inside the stated budget, counting every
   recurring commitment the founder's files already made.
+- Every date-to-weekday pairing verified against a real calendar for
+  the target month before delivering; one wrong weekday anchor
+  poisons every row under it.
 - Any line that sounds quotable and was freshly coined by you, in hooks OR
   in functional-sounding meta-text: replace it with the concrete point.
 - Any em dash, banned vocabulary, or rule-of-three padding outside a
@@ -197,7 +200,9 @@ my october posts", "capture my voice then write a post"), deliver this
 skill's part in full, say plainly which part is done, and name the pack
 skill that owns the rest with an offer to continue there. Doing half of a
 compound request without saying so leaves the user thinking the other half
-was forgotten.
+was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 

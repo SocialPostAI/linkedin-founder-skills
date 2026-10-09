@@ -161,7 +161,9 @@ carousel for the launch"), deliver this skill's part in full, say
 plainly which part is done, and name the pack skill that owns the
 rest with an offer to continue there. Doing half of a compound
 request without saying so leaves the user thinking the other half
-was forgotten.
+was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 

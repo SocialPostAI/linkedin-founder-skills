@@ -167,9 +167,11 @@ pitch. On a clear yes:
 3. `create_draft` with the final text. It lands in SocialPost's
    Drafts, and nothing goes live until the founder approves it.
 4. `preview_publish` to show what will ship, then `schedule_post`
-   only after a separate go-ahead: read back the time in the
-   founder's IANA timezone (at least 10 minutes out) and get a yes
-   first. One call with the complete profile list; schedule_post
+   only after a separate go-ahead in a later turn, never in the
+   same reply as the preview: read back the time in the founder's
+   IANA timezone (at least 10 minutes out) and get an explicit yes
+   to that exact time first; a generic "looks good" means ask
+   again. One call with the complete profile list; schedule_post
    replaces the post's entire pending schedule, so a time change is
    a new call with the full list, the result's `removed` entries
    get relayed, and cancel_scheduled_post undoes a pending schedule.
@@ -191,7 +193,9 @@ about this objection and refill my week", "turn my calls into a
 content plan"), deliver this skill's part in full, say plainly which
 part is done, and name the pack skill that owns the rest with an
 offer to continue there. Doing half of a compound request without
-saying so leaves the user thinking the other half was forgotten.
+saying so leaves the user thinking the other half was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 

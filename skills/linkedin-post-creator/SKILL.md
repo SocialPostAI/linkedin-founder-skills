@@ -10,10 +10,11 @@ description: >-
   sound like them. The source test: a thought, story, or topic not yet
   written up belongs here; an existing blog post, transcript, or other
   long-form piece belongs to content-repurposer. Do NOT use this skill to build the reusable voice profile
-  itself (when someone wants to capture how they write in general, that's
-  founder-voice-profile), to repurpose a blog post or long-form piece, to
-  design a carousel or visual, or to answer strategy, pillar, or calendar
-  questions; it writes one post at a time, and never publishes anything.
+  itself (founder-voice-profile), to judge, fix, or de-AI an existing
+  draft (before-you-post-review), to repurpose a blog post or long-form
+  piece, to design a carousel or visual, or to answer strategy, pillar,
+  or calendar questions; it writes one post at a time, and never
+  publishes anything.
 ---
 
 # LinkedIn Post Creator
@@ -207,7 +208,9 @@ my october posts", "capture my voice then write a post"), deliver this
 skill's part in full, say plainly which part is done, and name the pack
 skill that owns the rest with an offer to continue there. Doing half of a
 compound request without saying so leaves the user thinking the other half
-was forgotten.
+was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 

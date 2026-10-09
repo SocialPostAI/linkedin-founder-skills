@@ -122,7 +122,9 @@ any other hour this quarter; put it in the founder's calendar.
 Re-read your entire reply line by line before you respond: every
 post, brief, and the prose around them. Cut or fix any freshly
 coined quotable, any claim, number, or name not cleared in intake
-(turn it into a [bracketed slot]), anything that leaks the
+(turn it into a [bracketed slot]), any invented buyer scene or
+chorus ("people keep asking", "to everyone who asked") that intake
+didn't actually supply, anything that leaks the
 announcement into a before post, any em dash, stock vocabulary,
 engagement bait, rule-of-three padding, or manufactured excitement,
 and any three same-length sentences in a row. Quoted fragments from
@@ -187,8 +189,10 @@ afterward. On a clear yes:
 5. Scheduling, per post and explicit: show one table (post, exact
    final text's first line, accounts, day and time in the founder's
    timezone, image yes/no), then for each post the founder
-   confirms, `preview_publish` and `schedule_post` at its confirmed
-   moment, at least 10 minutes out, one call per draft with its
+   confirms explicitly (a generic "looks good" is not a
+   confirmation: ask again, and the scheduling calls never ride in
+   the same reply that first shows the table), `preview_publish`
+   and `schedule_post` at its confirmed moment, at least 10 minutes out, one call per draft with its
    complete profile list. Relay anything the result reports as
    `removed`. If the date moves later, re-call schedule_post per
    affected post (it replaces that post's pending schedule) or
@@ -230,7 +234,9 @@ the launch and my regular posts", "launch week plus a carousel"),
 deliver this skill's part in full, say plainly which part is done,
 and name the pack skill that owns the rest with an offer to continue
 there. Doing half of a compound request without saying so leaves the
-user thinking the other half was forgotten.
+user thinking the other half was forgotten. When the skill
+that owns the rest isn't loaded in this client, name it and stop;
+never perform its job as a quick pass.
 
 ## Handing off
 
