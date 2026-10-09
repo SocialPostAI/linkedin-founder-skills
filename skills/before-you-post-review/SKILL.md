@@ -1,22 +1,22 @@
 ---
 name: before-you-post-review
 description: >-
-  Review a post the founder is about to publish and answer the only
-  question that matters: is this good enough to put your name on?
-  Scores a drafted LinkedIn post on six dimensions against the
-  founder's own voice and their actual buyer, never against
-  viral-creator benchmarks, with quoted evidence for every score, at
-  most two fixes, and a plain verdict: publish, fix then publish, or
-  rethink. Use whenever someone shares a drafted post and asks whether
-  it's good, wants a verdict, wants one specific draft fixed or made
-  less AI-sounding, or is hesitating to hit post. The source test: an
-  existing draft to judge or fix belongs here; a topic that still
-  needs writing belongs to linkedin-post-creator, and shipping or
-  scheduling an approved post, compound check-then-ship asks
-  included, belongs to keep-your-ai-publisher. Do NOT use this skill to analyze how
-  already-published posts performed (that's social-analytics-review),
-  to audit a profile or content mix (linkedin-presence-audit), or to
-  build the reusable voice profile itself (founder-voice-profile).
+  Review a post the founder is about to publish and answer whether
+  it is good enough to put their name on. Scores a drafted LinkedIn
+  post on six dimensions against the founder's own voice and their
+  actual buyer, never against viral-creator benchmarks, with quoted
+  evidence for every score, at most two fixes, and a plain verdict:
+  publish, fix then publish, or rethink. Use whenever someone shares
+  a drafted post and asks whether it's good, wants a verdict, a fix,
+  or a draft made less AI-sounding, or is hesitating to hit post.
+  The source test: an existing draft to judge or fix belongs here; a
+  topic that still needs writing belongs to linkedin-post-creator,
+  and shipping or scheduling an approved post, compound
+  check-then-ship asks included, belongs to keep-your-ai-publisher.
+  Do NOT use this skill to analyze how already-published posts
+  performed (social-analytics-review), to audit a profile or content
+  mix (linkedin-presence-audit), or to build the reusable voice
+  profile itself (founder-voice-profile).
 ---
 
 # Before You Post Review
