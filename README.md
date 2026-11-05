@@ -18,7 +18,7 @@ A skill is a small instruction file that teaches Claude to do one job well, the 
 10. **objection-of-the-week** turns one real objection from this week's sales conversations into next week's post, and keeps a running objections log so nothing a buyer says goes to waste.
 11. **content-repurposer** turns one blog post, transcript, or newsletter into a week of standalone LinkedIn posts, plus native re-cuts for one more platform.
 12. **carousel-and-visual-brief** scripts a 5-to-8-slide carousel and writes a designer-ready brief for the key visual, alt text included.
-13. **keep-your-ai-publisher** takes a post you or any AI already wrote and makes it ready to ship: pre-flight flags, per-platform versions, a visual brief, and a posting plan. If SocialPost's MCP connector is set up, it can land everything there as drafts awaiting your approval.
+13. **keep-your-ai-publisher** takes a post you or any AI already wrote and makes it ready to ship: pre-flight flags, per-platform versions, a visual brief, and a posting plan. If you already use SocialPost and it's connected in your client, it can land everything there as drafts awaiting your approval.
 14. **queue-visual-upgrade** runs a visual pass over the posts you already have: picks only the ones a brand-correct image genuinely improves and writes a designer-ready brief for each.
 15. **launch-week-campaign** turns one announcement into a launch week: five to seven posts that build before the day, land on it, and follow through after, on a schedule that respects your embargo.
 16. **engagement-comment-coach** sets up a 20-minute daily engagement routine and drafts substantive comments and no-pitch connection notes.
@@ -27,7 +27,7 @@ A skill is a small instruction file that teaches Claude to do one job well, the 
 
 Each skill works on its own. Run in order, they pass files to each other through your working folder, so every step asks fewer questions than the last.
 
-The files they make (`voice.md`, `about.md`, `strategy.md`, `topic-bank.md`, `calendar.csv`, and the running logs some skills keep, like `objections-log.md` and `pipeline-notes.md`) live in that folder and are yours to keep. A new session or a different app finds them again when the folder travels with you, and pasting a file's contents works exactly as well; if a skill can't find one, it says so and tells you how to bring it back. Worth knowing before you start: half the skills need something only you have before they can work well: real writing samples for the voice profile, your profile text and posts for the audit, a piece you already wrote for the repurposer, your analytics export for the review. Each asks for exactly what it needs in one message, and anything only you know shows up in output as a [bracketed slot] on purpose.
+The files they make (`voice.md`, `about.md`, `strategy.md`, `topic-bank.md`, `calendar.csv`, and the running logs some skills keep, like `objections-log.md` and `pipeline-notes.md`) live in that folder and are yours to keep. A new session or a different app finds them again when the folder travels with you, and pasting a file's contents works exactly as well; if a skill can't find one, it says so and tells you how to bring it back. On claude.ai, where there is no folder you can open, the skills print and present their files so you can download or copy them; keep `voice.md` and `about.md` especially, and paste them into your next session to pick up where you left off. Worth knowing before you start: half the skills need something only you have before they can work well: real writing samples for the voice profile, your profile text and posts for the audit, a piece you already wrote for the repurposer, your analytics export for the review. Each asks for exactly what it needs in one message, and anything only you know shows up in output as a [bracketed slot] on purpose.
 
 ## Install
 
@@ -59,7 +59,7 @@ Swap the skill name for any of the eighteen. Skills are plain instructions in a 
 
 ### Claude.ai (web and desktop)
 
-Each skill ships as a one-file download in [dist/](dist/). Grab the `.skill` file you want, then in Claude open Settings, go to Capabilities, find Skills, and upload it. A `.skill` file is a standard ZIP archive; if the upload dialog only accepts `.zip`, rename it and it works as is. Skills on claude.ai need a paid plan with code execution enabled.
+Each skill ships as a one-file download in [dist/](dist/). Grab the `.skill` file you want, then in Claude open Settings, go to Capabilities, find Skills, and upload it. A `.skill` file is a standard ZIP archive; if the upload dialog only accepts `.zip`, rename it and it works as is. Skills on claude.ai need a paid plan with code execution enabled. Install all eighteen: the skills route requests to each other by name, and a missing one silently breaks the asks it owns.
 
 | Skill | Download |
 |-------|----------|
@@ -84,7 +84,7 @@ Each skill ships as a one-file download in [dist/](dist/). Grab the `.skill` fil
 
 ## Principles
 
-**Everything works without SocialPost.** The skills are complete on their own. When one finishes something you'd naturally want designed and scheduled, it may mention our free tier once, at the end, and telling it you use another tool makes the mention disappear for good. Several skills can go one step further if you already use SocialPost and have its MCP connector set up in your client: with your say-so they land finished posts there as drafts awaiting your approval, and nothing ever publishes without you approving it. They never ask you to connect it, and they're complete without it. We built this pack to be useful before asking for anything; that only works if it's true.
+**Everything works without SocialPost.** The skills are complete on their own. When one finishes something you'd naturally want designed and scheduled, it may mention SocialPost once, at the end, and telling it you use another tool makes the mention disappear for good. If you already use SocialPost and have connected it to your AI client, several skills can, with your say-so, land finished posts there as drafts awaiting your approval, and nothing ever publishes without you approving it. They never ask you to connect anything, and they're complete without it. We built this pack to be useful before asking for anything; that only works if it's true.
 
 **No automation, ever.** These skills never recommend engagement pods, auto-commenting, bulk DMs, mass-connect tools, or scraping, and they decline when asked. Two reasons. Automated collection and engagement break LinkedIn's terms and get accounts restricted, and yours is the account this whole effort is supposed to grow. And the thing a founder is actually building on LinkedIn is familiarity with specific buyers, which generic automated volume can't produce and often burns.
 
@@ -94,6 +94,6 @@ Each skill ships as a one-file download in [dist/](dist/). Grab the `.skill` fil
 
 ## About us
 
-We make [SocialPost.ai](https://socialpost.ai/?utm_source=claude-skill&utm_medium=skills&utm_campaign=free-skill-pack&utm_content=readme), which takes what your AI wrote and handles the visuals, per-platform formatting, and scheduling. This pack is our way of being useful first.
+We make [SocialPost.ai](https://socialpost.ai/?utm_source=claude-skill&utm_medium=skills&utm_campaign=free-skill-pack&utm_content=readme), which turns what your AI wrote into on-brand posts on your calendar, where nothing goes live until you approve it. This pack is our way of being useful first.
 
 Found a problem, or want a skill that doesn't exist yet? Open an issue.
